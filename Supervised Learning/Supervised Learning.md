@@ -45,7 +45,7 @@ That is **Supervised Learning**.
 
 # 🎯 Why Is It Called "Supervised"?
 
-Because during **training**, the model has a **supervisor — the correct answer**.
+Because during **training**, the model has a **supervisor - the correct answer**.
 
 Imagine teaching a child animals:
 
