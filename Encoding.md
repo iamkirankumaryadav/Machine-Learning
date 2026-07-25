@@ -1,4 +1,4 @@
-# 🔤 Encoding — Explained in Simple Terms
+# 🔤 Encoding - Explained in Simple Terms
 
 In Machine Learning, **encoding** means converting **categorical/text data into numerical data** so an ML model can understand and use it.
 
@@ -90,7 +90,7 @@ Before choosing an encoding technique, ask:
 
 > **Do these categories have a meaningful order?**
 
-## 1️⃣ Nominal Data — No Order
+## 1️⃣ Nominal Data - No Order
 
 Categories have **no natural ranking**.
 
@@ -125,7 +125,7 @@ Think:
 
 ---
 
-## 2️⃣ Ordinal Data — Has Order
+## 2️⃣ Ordinal Data - Has Order
 
 Categories have a meaningful ranking.
 
