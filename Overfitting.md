@@ -1,4 +1,4 @@
-# 🎯 Overfitting — Explained in Simple Terms
+# 🎯 Overfitting - Explained in Simple Terms
 
 **Overfitting** happens when a Machine Learning model learns the **training data too closely**, including its noise and accidental patterns, instead of learning the general pattern.
 
@@ -430,11 +430,11 @@ Ridge       Lasso
  L2           L1
 ```
 
-### Ridge — L2
+### Ridge - L2
 
 Shrinks coefficients toward zero.
 
-### Lasso — L1
+### Lasso - L1
 
 Can shrink some coefficients **exactly to zero**, effectively removing some features.
 
