@@ -1,4 +1,4 @@
-# 🤖 Supervised Learning — Explained Simply
+# 🤖 Supervised Learning
 
 **Supervised Learning** is a type of Machine Learning where we train a computer using **examples that already contain the correct answers**.
 
