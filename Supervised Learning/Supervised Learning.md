@@ -327,7 +327,7 @@ Training Data → 😎 Excellent
 New Data      → 😵 Poor
 ```
 
-A good model should **generalize** — perform well on new, unseen data.
+A good model should **generalize** - perform well on new, unseen data.
 
 ---
 
@@ -425,7 +425,7 @@ For example, give the model customer data and ask it to discover groups of simil
 
 Suppose a bank wants to predict whether customers will default on loans.
 
-### Step 1 — Collect historical data
+### Step 1 - Collect historical data
 
 ```text
 Income
@@ -435,7 +435,7 @@ Existing Debt
 Employment History
 ```
 
-### Step 2 — Provide labels
+### Step 2 - Provide labels
 
 ```text
 Customer A → Defaulted
@@ -443,7 +443,7 @@ Customer B → Not Defaulted
 Customer C → Defaulted
 ```
 
-### Step 3 — Train
+### Step 3 - Train
 
 ```text
 Features (X)
@@ -453,7 +453,7 @@ ML Algorithm
 Learn relationship between X and y
 ```
 
-### Step 4 — New customer
+### Step 4 - New customer
 
 ```text
 Income       = $80K
