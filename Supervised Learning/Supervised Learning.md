@@ -74,7 +74,7 @@ The same principle applies to Machine Learning.
 
 Two terms are extremely important.
 
-### 📥 Features — Input
+### 📥 Features - Input
 
 The information given to the model.
 
@@ -89,7 +89,7 @@ Location = Bengaluru
 
 These are **features**, usually represented as **X**.
 
-### 🎯 Label/Target — Correct Answer
+### 🎯 Label/Target - Correct Answer
 
 The value we want the model to learn to predict.
 
