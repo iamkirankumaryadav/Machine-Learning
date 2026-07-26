@@ -1,4 +1,4 @@
-# 📏 Residual - Explained in Simple Terms
+# 📏 Residual
 
 A **residual** tells us:
 
