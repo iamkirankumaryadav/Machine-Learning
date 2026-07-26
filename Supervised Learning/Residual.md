@@ -40,8 +40,6 @@ The model **overpredicted** by $50,000.
 
 In Linear Regression, the model creates a best-fit line.
 
-genui{"inference_regression_ml_learning_block":{"type_id":"LEAST_SQUARE_REGRESSION"}}
-
 For every observation, the vertical distance between the **actual point** and the **predicted point on the regression line** is its residual.
 
 ```text
