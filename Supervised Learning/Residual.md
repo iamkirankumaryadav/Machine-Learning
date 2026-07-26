@@ -460,4 +460,5 @@ The closer your prediction is to reality:
 ### Interview-ready definition
 
 > A residual is the difference between an observed actual value and the value predicted by a regression model.
+
 > Residual = Actual − Predicted.
