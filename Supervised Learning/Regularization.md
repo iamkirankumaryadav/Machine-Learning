@@ -397,9 +397,9 @@ We want:
 
 ---
 
-# 🔥 Regularization and Bias–Variance Tradeoff
+# 🔥 Regularization and Bias - Variance Tradeoff
 
-Regularization is closely connected to the **bias–variance tradeoff**.
+Regularization is closely connected to the **bias - variance tradeoff**.
 
 Without enough regularization:
 
