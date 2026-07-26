@@ -1,4 +1,4 @@
-# 📏 Normalization — Explained in Simple Terms
+# 📏 Normalization - Explained in Simple Terms
 
 **Normalization** is a **feature-scaling technique** that changes numerical values to a common range, most commonly:
 
