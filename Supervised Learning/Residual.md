@@ -193,12 +193,11 @@ Residuals help us answer:
 > **Where and how is the model getting things wrong?**
 
 They can reveal:
-
-**Large prediction mistakes** 🚨
-**Outliers** 🔍
-**Nonlinear patterns** 📈
-**Changing error variance (heteroscedasticity)** ⚖️
-**Systematic over/underprediction** 🎯
+- **Large prediction mistakes** 🚨
+- **Outliers** 🔍
+- **Nonlinear patterns** 📈
+- **Changing error variance (heteroscedasticity)** ⚖️
+- **Systematic over/underprediction** 🎯
 
 So don't evaluate a regression model only using:
 
