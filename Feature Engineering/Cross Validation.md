@@ -611,13 +611,12 @@ Average + Variation
 > **Cross-Validation is a model evaluation technique where the training data is repeatedly divided into training and validation subsets, allowing the model to be evaluated across multiple splits to estimate how well it generalizes to unseen data.**
 
 ### ⭐ Quick Cheat Sheet
-
-**K-Fold** → Rotate K validation folds 🔄
-**5-Fold** → Train/evaluate 5 times
-**Stratified K-Fold** → Preserve class proportions ⚖️
-**Time-Series CV** → Preserve chronological order ⏰
-**GridSearchCV** → Hyperparameter tuning + CV 🎛️
-**Test Set** → Keep untouched for final evaluation 🎯
+- **K-Fold** → Rotate K validation folds 🔄
+- **5-Fold** → Train/evaluate 5 times
+- **Stratified K-Fold** → Preserve class proportions ⚖️
+- **Time-Series CV** → Preserve chronological order ⏰
+- **GridSearchCV** → Hyperparameter tuning + CV 🎛️
+- **Test Set** → Keep untouched for final evaluation 🎯
 
 ### 🧠 One-line memory trick
 
