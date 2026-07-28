@@ -449,7 +449,9 @@ Imagine people at a party. 🎉
 You place **3 tables** around the room:
 
 ⭐ Table 1
+
 ⭐ Table 2
+
 ⭐ Table 3
 
 Everyone goes to their **nearest table**.
