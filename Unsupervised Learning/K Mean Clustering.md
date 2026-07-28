@@ -1,4 +1,4 @@
-# 🎯 K-Means Clustering — Explained in Simple Terms
+# 🎯 K-Means Clustering
 
 **K-Means Clustering** is an **Unsupervised Learning algorithm** that divides similar data points into **K groups (clusters)**.
 
@@ -374,15 +374,15 @@ It works best when clusters are relatively **compact and well separated**.
 
 It can struggle when:
 
-**🔸 Clusters have irregular shapes** — DBSCAN may work better.
+**🔸 Clusters have irregular shapes** - DBSCAN may work better.
 
-**🔸 There are many outliers** — outliers can pull centroids away from the true center.
+**🔸 There are many outliers** - outliers can pull centroids away from the true center.
 
-**🔸 Clusters have very different sizes/densities** — K-Means may create misleading groups.
+**🔸 Clusters have very different sizes/densities** - K-Means may create misleading groups.
 
-**🔸 K is unknown** — you need to choose K somehow.
+**🔸 K is unknown** - you need to choose K somehow.
 
-**🔸 Features aren't scaled** — large-scale features can dominate distance.
+**🔸 Features aren't scaled** - large-scale features can dominate distance.
 
 ---
 
