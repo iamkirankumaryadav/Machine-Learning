@@ -465,6 +465,9 @@ That is **K-Means Clustering**. 🎯
 ### 🔑 Remember forever:
 
 > **K = Number of clusters**
+
 > **Means = Mean determines the centroid**
+
 > **Centroid = Center of the cluster**
+
 > **K-Means = Assign → Recalculate → Repeat**
